@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">カレンダーウォッチフェイス</string>
+	<string name="analog_name">カレンダー</string>
+    <string name="digital_background_color">Background color</string>
+	<string name="next_schedule_title_start">\"%1$S\"開始まで</string>
+    <string name="next_schedule_title_end">\"%1$S\"終了まで</string>
+	<string name="color_black">Black</string>
+	<string name="color_blue">Blue</string>
+	<string name="color_gray">Gray</string>
+	<string name="color_green">Green</string>
+	<string name="color_navy">Navy</string>
+	<string name="color_red">Red</string>
+	<string name="color_white">White</string>
+
+</resources>
